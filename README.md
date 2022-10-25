@@ -54,7 +54,7 @@ $ git clone https://github.com/mindkeeper/coffebug-front-end
 
 ## Deploy Site
 
-- https://coffebug.netlify.app/home/index.html
+- https://coffebug.netlify.app/
 
 ## Related Project
 
