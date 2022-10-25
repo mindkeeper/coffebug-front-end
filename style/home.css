@@ -168,7 +168,7 @@ section.hero {
 .image-product {
   position: absolute;
   border-radius: 50%;
-  top: -20%;
+  top: -15%;
 }
 .order {
   border-radius: 1rem;
@@ -328,6 +328,9 @@ footer .brand-container a {
 }
 
 @media screen and (max-width: 768px) {
+  .link-container {
+    display: none;
+  }
   .hero-button {
     width: 50%;
   }
