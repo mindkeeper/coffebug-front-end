@@ -15,8 +15,8 @@ With this platform, users can place orders online for dine-in, delivery or pick-
 
 - [About](#about)
 - [Getting Started](#-Getting-Started)
-- [Deploy Site](#-Deploy-netlify)
 - [Screenshots](#-Screenshots)
+- [Deploy Site](#-Deploy-netlify)
 - [Related-project](##-Related-Project)
 
 ---
@@ -32,10 +32,6 @@ $ git clone https://github.com/mindkeeper/coffebug-front-end
 2. Open [VS Code](https://code.visualstudio.com/)
 3. Install [Live Server Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 4. Right click _home.html_ then choose **Open With Live Server**
-
-## Deploy Site
-
-- https://coffebug.netlify.app/home/index.html
 
 ## Screenshots
 
@@ -55,6 +51,10 @@ $ git clone https://github.com/mindkeeper/coffebug-front-end
     <image src='web-screenshoot\footer.png' width=100%/>
   </div>
 </p>
+
+## Deploy Site
+
+- https://coffebug.netlify.app/home/index.html
 
 ## Related Project
 
