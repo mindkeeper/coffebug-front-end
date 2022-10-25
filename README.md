@@ -29,7 +29,7 @@ With this platform, users can place orders online for dine-in, delivery or pick-
 $ git clone https://github.com/mindkeeper/coffebug-front-end
 ```
 
-2. Open [VS Code](https://code.visualstudio.com/) in _JuicyWorlds-FE_ directory
+2. Open [VS Code](https://code.visualstudio.com/)
 3. Install [Live Server Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 4. Right click _home.html_ then choose **Open With Live Server**
 
